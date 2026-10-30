@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".env" />
+    <File Path=".env.example" />
+  </Folder>
+  <Project Path="Mart_Management_System.csproj" />
+</Solution>

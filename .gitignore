@@ -5,9 +5,18 @@
 # Build files
 bin/
 obj/
+**/bin/
+**/obj/
 
 # User files
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
+
+# OS and temporary files
+desktop.ini
+[Dd]esktop.ini
+Thumbs.db
+.DS_Store
+
